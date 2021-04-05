@@ -1,0 +1,66 @@
+REUNIÃO 01 (26.03) ABERTURA E PLANEJAMENTO INCIAL
+	participantes: vinicius centurion
+
+Divisão das atividades;
+	Elaboração da lista encadeada para as disciplinas;
+	Elaboração de lista sequencial para os alunos;
+	Implementação do sistema de busca para lista sequencial por método de busca "binária";
+	Elaboração de MENUS para aplicação do tipo console (interface gráfica não autorizada);
+	Elaboração do main e sistema de chamada para o cadastro dos alunos e das disciplinas;
+	Realização de testes para verificação dos comportamento da aplicação;
+	Registro de backlog.
+
+Definição do cronograma;
+	Entregas parciais:
+	primeira entrega 01/04; Reunião do grupo para verificação do código e alinhamento; eventuais 	solicitações de correções;
+	segunda entrega 03/04; Reunião do grupo para apresentação das correções e solicitação de 	eventuais correções finais;
+	Prazo de entre final da aplicação: 04/04/2021; Reunião de entrega e encerramento. Alinhamento 	para apresentação do projeto.
+
+Levantamento de restrições;
+	Limitações acerca da linguagem escolhida: JAVA.
+	Falta de conhecimento das estruturas básicas de entrada e saída;
+	Falta de conhecimento sobre classes e construtores;
+	Dificuldades de exibição de estruturas;
+
+	Sugestão
+	Leitura e visualização dos vídeos do curso: https://www.devmedia.com.br/java/
+
+
+Definição de repositório.
+	Foram criados repositórios online nas plataformas GITHUB e REPL.IT para envio dos códigos.
+	https://github.com/vncenturion/Atividade-Listas
+	https://replit.com/@ViniciusB1/ATIVIDADE-01-LISTAS#Main.java
+
+
+REUNIÃO 02 (29.03)
+	participantes: vinicius centurion
+
+LISTA ENCADEADA
+	Elaboração da estrutura do objeto disciplina: que deverá conter o nome da disciplina e a nota;
+	Elaboração da lista encadeada para cada disciplina e seus métodos básicos conforme apresentado em aula pelo professor.
+	Observação: para lista encadeada serão criados todos os métodos apresentados pelo professor e outros que o responsável considere importante.
+	Sugere-se a utilização da referencia: PUGA, Sandra. Logica de programação e estruturas de dados, disponível em biblioteca online:
+https://plataforma.bvirtual.com.br/Leitor/Publicacao/41600/pdf/236?code=xHOEAGPgR82ZJlM3kzEXyHlO++q+S9RZhz/nzRrAW8DW6NFVfWw91Nkk8ZQKifwS4sM3ECzX8ySZIjvnwrgVRA==
+
+LISTA SEQUENCIAL
+	Elaboração da estrutura referente ao objeto aluno: que deverá contar obrigatoriamente com RGM, acrescentando-se, porém, por decisão do grupo, o campo NOME, de maneira a melhor identificar o aluno;
+	Elaboração da estrutura da lista sequencial (lista estática indexada) com os métodos apresentados em sala de aula. Acrescentar-se-á não apenas aqueles necessários a execução da atividade mas todos aqueles apresentados pelo professor em sala de maneira a permitir melhor controle da lista.
+
+	COMPLEXIDADE: o objeto aluno deverá conter também a lista encadeada referente as disciplinas por ele cursadas.
+
+MAIN
+	Desenvolvimento da aplicação principal que irá realizar a chamada para o cadastros, devendo:
+apresentar um MENU de opções para cadastro, busca, remoção e exibição dos alunos cadastrados e, ainda, saida do programa (feito através de estrutura de repetição com chave para saída de acordo com a opção apresentada pelo MENU).
+	Após o cadastro de aluno, apresente o menu de cadastro de disciplinas para este aluno cadastrado, de maneira a facilitar a entrada das disciplinas e notas a elas referentes. 
+finalizado o cadastro de disciplinas do aluno, retorne ao menu principal.
+Para exibição da lista de alunos e disciplinas, sugere-se a adoção de dois tipos, um simplificado, apresentando somente os alunos cadastrados, e outro detalhado, apresentado não apenas os alunos, mas cada uma de suas disciplinas e notas.
+
+BUSCA BINARIA
+	Busca binária será realizada a partir do RGM do aluno utilizando o método de mediana para busca do rgm correspondente nos índice correspondente a mediana para o tamanho apresentado da lista sequencial de alunos.
+
+REUNIÃO 03 (01/04)
+	participantes: vinicius centurion
+
+	Concluídas as entregas.
+	Registro de backlog finalizado na plataforma TRELLO. https://trello.com/b/K4NL1PtX/ed-atividade-01-listas
+	Transcrição para documento de txt.
