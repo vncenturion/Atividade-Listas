@@ -1,4 +1,4 @@
-# Atividade 01: Listas 🧩
+# Atividade 01: Listas :card_file_box: :link:
 Trabalho apresentado ao Prof. Walace Sartori Bonfim como requisito parcial a obtenção de nota referente a primeira avaliação na disciplina de Estruturas de Dados do curso de graduação em Ciências da Computação do Centro Universitário de João Pessoa.
  
 ## :clipboard: Escopo
