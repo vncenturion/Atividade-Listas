@@ -11,5 +11,5 @@ Considere uma sala de 60 alunos (tamanho conhecido). Cada aluno identificado pel
 
 ## :paperclip: Conteúdo adicional
 Juntamente aos códigos foram elaborados:
-* [Registro de backlog de desenvolvimento](https://github.com/vncenturion/Atividade-Listas/blob/main/regBacklog.txt).
+* [Registro de backlog de desenvolvimento](https://github.com/vncenturion/Atividade-Listas/blob/main/regBacklog.txt); e,
 * [Aplicação em IDE online](https://replit.com/@ViniciusB1/ATIVIDADE-01-LISTAS#Main.java).
