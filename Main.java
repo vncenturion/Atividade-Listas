@@ -20,6 +20,8 @@ class Main
 		int RGMdoAluno, controle=0, controleAddLista=0, posicaoLista=0;
 		String nomeDoAluno;
 
+		//cria objeto lista "sequencial". termo improprio para lista estatica indexada pois toda e qualquer lista é por natureza propria sequencial [verificar referencias: MANZANO, PUGA, DILERMANDO JR.].
+
 		ListaAluno listasequencial = new ListaAluno();
 		ListaDisciplinas listaencadeada = new ListaDisciplinas();
 
@@ -52,7 +54,7 @@ class Main
 
 					listasequencial.alunos[controleAddLista].listaDiscDoAluno=	(programa2.programaListaDisciplina());
 
-					System.out.println("<pressione ENTER>");
+					System.out.println("\n<pressione ENTER para voltar ao menu>");
 					entrada.nextLine();
 					break;
 				case 2:
@@ -64,7 +66,9 @@ class Main
 					rgmBuscaExclui = entrada.nextInt();
 					entrada.nextLine();
 					
-					int posicaoBuscaExclui = listasequencial.retornarPosicaoRGM(rgmBuscaExclui);
+					//int posicaoBuscaExclui = listasequencial.retornarPosicaoRGM(rgmBuscaExclui); //utilizando busca linear
+
+					int posicaoBuscaExclui = listasequencial.buscaBinaria(rgmBuscaExclui); //busca utilizando pesquisa por mediana "busca binaria"
 
 					if (posicaoBuscaExclui!=-1)
 					{

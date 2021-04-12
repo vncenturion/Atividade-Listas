@@ -65,6 +65,7 @@ public class ProgramaListaDisciplina
 				case 4:
 					System.out.println("Quantidade de disciplinas cursadas pelo aluno: " + lista.contarNos());
 					valor = lista.contarNos();
+					entrada.nextLine();
 					break;
 				case 5:
 					if(lista.contarNos()==0)
@@ -91,7 +92,7 @@ public class ProgramaListaDisciplina
 					}
 					break;
 				case 7:
-					System.out.println("Sair do cadastro de disciplinas");
+					System.out.println("\nSair do cadastro de disciplinas\n");
 			}
 		}
 		return lista;

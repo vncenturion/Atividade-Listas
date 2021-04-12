@@ -1,5 +1,5 @@
 REUNIÃO 01 (26.03) ABERTURA E PLANEJAMENTO INCIAL
-	participantes: vinicius centurion
+	participantes: andre rodrigo, calos adriano, carlos henrique, vinicius centurion
 
 Divisão das atividades;
 	Elaboração da lista encadeada para as disciplinas;
@@ -33,7 +33,8 @@ Definição de repositório.
 
 
 REUNIÃO 02 (29.03)
-	participantes: vinicius centurion
+	participantes: andre rodrigo, calos adriano, carlos henrique, vinicius centurion
+
 
 LISTA ENCADEADA
 	Elaboração da estrutura do objeto disciplina: que deverá conter o nome da disciplina e a nota;
@@ -59,7 +60,7 @@ BUSCA BINARIA
 	Busca binária será realizada a partir do RGM do aluno utilizando o método de mediana para busca do rgm correspondente nos índice correspondente a mediana para o tamanho apresentado da lista sequencial de alunos.
 
 REUNIÃO 03 (01/04)
-	participantes: vinicius centurion
+	participantes: andre rodrigo, calos adriano, carlos henrique, vinicius centurion
 
 	Concluídas as entregas.
 	Registro de backlog finalizado na plataforma TRELLO. https://trello.com/b/K4NL1PtX/ed-atividade-01-listas
